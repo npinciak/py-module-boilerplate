@@ -1,7 +1,7 @@
 import requests
 import requests.exceptions
 
-from src.helpers import Logger
+from src.helpers.logger import Logger
 
 
 class HttpConstructor:
